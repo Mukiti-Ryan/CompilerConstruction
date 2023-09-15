@@ -3,6 +3,7 @@ which can be accessed inside yylex()
 and main() ***/
 %{
 int vowelCount = 0;
+
 %}
  
 /*** Rule Section has three rules, first rule
